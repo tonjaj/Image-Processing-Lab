@@ -1,0 +1,22 @@
+﻿  functions.cpp
+c:\users\prebe\documents\tonja\skole\69661 image processing and computer vision\laboratories\elabimage\lab_session_2\functions.cpp(140): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+c:\users\prebe\documents\tonja\skole\69661 image processing and computer vision\laboratories\elabimage\lab_session_2\functions.cpp(196): warning C4244: '=': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=unsigned char
+          ]
+c:\users\prebe\documents\tonja\skole\69661 image processing and computer vision\laboratories\elabimage\lab_session_2\functions.cpp(234): warning C4244: '+=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  Generating code
+  2 of 211 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Lab_session_2.vcxproj -> C:\Users\prebe\Documents\Tonja\Skole\69661 Image Processing and Computer Vision\Laboratories\ElabImage\Release\Lab_session_2.exe

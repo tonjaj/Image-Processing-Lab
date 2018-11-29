@@ -1,0 +1,2 @@
+﻿  lab_1_ex_4.cpp
+LINK : fatal error LNK1181: cannot open input file 'opencv_core249.lib'
